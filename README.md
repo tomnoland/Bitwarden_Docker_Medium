@@ -5,11 +5,10 @@ https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046
 
 ---
 
-hub delete -y tomnoland/RepoName
+hub delete -y tomnoland/Bitwarden_Docker_Medium
 
-git clone https://github.com/tomnoland/New-Project-Template
+git clone https://github.com/tomnoland/Bitwarden_Docker_Medium
 
-https://github.com/tomnoland/New-Project-Template/generate
 
 ---
 
