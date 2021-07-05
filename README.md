@@ -1,5 +1,8 @@
 # Bitwarden_Docker_Medium
 
+https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046
+
+
 ---
 
 hub delete -y tomnoland/RepoName
