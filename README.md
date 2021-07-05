@@ -1,6 +1,4 @@
-# New-Project-Template
-
-Template for new projects
+# Bitwarden_Docker_Medium
 
 ---
 
